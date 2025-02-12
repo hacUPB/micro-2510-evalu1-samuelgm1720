@@ -1,5 +1,7 @@
 # Componentes de un procesador
 
+![alt text](Images/fig0-1.gif)
+
 ---
 
 **CPU**: Esta encargada de procesar la informacion y ejecutar las operaciones definidas por el software.  
